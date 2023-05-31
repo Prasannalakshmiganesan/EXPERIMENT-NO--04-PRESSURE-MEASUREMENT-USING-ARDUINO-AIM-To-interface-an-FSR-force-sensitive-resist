@@ -137,23 +137,6 @@ void loop()
 }
 
 ```
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
 
 
 ### TABLE -02 standard deviation table 
@@ -175,12 +158,14 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 BEFORE STIMULATION :
+
 ![EXPERIMENT03](https://github.com/Prasannalakshmiganesan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118610231/904c8b96-b281-48e1-b06c-8921ee6a5e54)
 
 
 
 
 AFTER STIMULATION :
+
 ![Screenshot (95)](https://github.com/Prasannalakshmiganesan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118610231/05b637b3-fa9a-43b0-bae1-d42dadd14ba2)
 
 
